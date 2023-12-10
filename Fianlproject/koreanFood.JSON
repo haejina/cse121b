@@ -3,7 +3,7 @@
       {
         "name": "Kimchi",
         "type": "Side Dish",
-        "image": "https://images.pexels.com/photos/6823261/pexels-photo-6823261.jpeg",
+        "image": "kimchi.jpg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -11,7 +11,7 @@
       {
         "name": "Bibimbap",
         "type": "Main Course",
-        "image": "bibimbap.jpg",
+        "image": "bibimbap.png",
         "spicy": true,
         "vegetarian": false,
         "seafood": false
@@ -19,7 +19,7 @@
       {
         "name": "Bulgogi",
         "type": "Main Course",
-        "image": "bulgogi.jpg",
+        "image": "bulgogi.png",
         "spicy": false,
         "vegetarian": false,
         "seafood": false
@@ -27,7 +27,7 @@
       {
         "name": "Tteokbokki",
         "type": "Snack",
-        "image": "tteokbokki.jpg",
+        "image": "tteokbokki.png",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -35,7 +35,7 @@
       {
         "name": "Soft Tofu Stew",
         "type": "Main Course",
-        "image": "Soft Tofu Stew.jpg",
+        "image": "Soft Tofu Stew.png",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -43,7 +43,7 @@
       {
         "name": "Samgyeopsal",
         "type": "Main Course",
-        "image": "samgyeopsal.jpg",
+        "image": "samgyeopsal.png",
         "spicy": false,
         "vegetarian": false,
         "seafood": false
@@ -51,7 +51,7 @@
       {
         "name": "Jjajangmyeon",
         "type": "Main Course",
-        "image": "jjajangmyeon.jpg",
+        "image": "jjajangmyeon.png",
         "spicy": false,
         "vegetarian": true,
         "seafood": false
@@ -59,7 +59,7 @@
       {
         "name": "Kimchi Stew",
         "type": "Main Course",
-        "image": "kimchi stew.jpg",
+        "image": "kimchi stew.png",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -67,7 +67,7 @@
       {
         "name": "Soy sauce crab",
         "type": "Side Dish",
-        "image": "crab.jpg",
+        "image": "crab.png",
         "spicy": false,
         "vegetarian": false,
         "seafood": true
