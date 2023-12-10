@@ -1,0 +1,86 @@
+{
+    "koreanFoods": [
+      {
+        "name": "Kimchi",
+        "type": "Side Dish",
+        "image": "kimchi.jpg",
+        "spicy": true,
+        "vegetarian": true,
+        "seafood": false
+      },
+      {
+        "name": "Bibimbap",
+        "type": "Main Course",
+        "image": "bibimbap.jpg",
+        "spicy": true,
+        "vegetarian": false,
+        "seafood": false
+      },
+      {
+        "name": "Bulgogi",
+        "type": "Main Course",
+        "image": "bulgogi.jpg",
+        "spicy": false,
+        "vegetarian": false,
+        "seafood": false
+      },
+      {
+        "name": "Tteokbokki",
+        "type": "Snack",
+        "image": "tteokbokki.jpg",
+        "spicy": true,
+        "vegetarian": true,
+        "seafood": false
+      },
+      {
+        "name": "Soft Tofu Stew",
+        "type": "Main Course",
+        "image": "tteokbokki.jpg",
+        "spicy": true,
+        "vegetarian": true,
+        "seafood": false
+      },
+      {
+        "name": "Samgyeopsal",
+        "type": "Main Course",
+        "image": "tteokbokki.jpg",
+        "spicy": false,
+        "vegetarian": false,
+        "seafood": false
+      },
+      {
+        "name": "Jjajangmyeon",
+        "type": "Main Course",
+        "image": "tteokbokki.jpg",
+        "spicy": false,
+        "vegetarian": true,
+        "seafood": false
+      },
+      {
+        "name": "Kimchi Stew",
+        "type": "Main Course",
+        "image": "tteokbokki.jpg",
+        "spicy": true,
+        "vegetarian": true,
+        "seafood": false
+      },
+      {
+        "name": "Soy sauce crab",
+        "type": "Side Dish",
+        "image": "tteokbokki.jpg",
+        "spicy": false,
+        "vegetarian": false,
+        "seafood": true
+      },
+      {
+        "name": "Haemul Pajeon",
+        "type": "Side Dish",
+        "image": "tteokbokki.jpg",
+        "spicy": false,
+        "vegetarian": false,
+        "seafood": true
+      }
+   
+    ]
+  }
+  
