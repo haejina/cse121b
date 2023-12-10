@@ -3,7 +3,7 @@
       {
         "name": "Kimchi",
         "type": "Side Dish",
-        "image": "Final project/kimchi.jpg",
+        "image": "kimchi.jpg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -11,7 +11,7 @@
       {
         "name": "Bibimbap",
         "type": "Main Course",
-        "image": "Final project/bibimbap.jpg",
+        "image": "bibimbap.jpg",
         "spicy": true,
         "vegetarian": false,
         "seafood": false
@@ -19,7 +19,7 @@
       {
         "name": "Bulgogi",
         "type": "Main Course",
-        "image": "Final project/bulgogi.jpg",
+        "image": "bulgogi.jpg",
         "spicy": false,
         "vegetarian": false,
         "seafood": false
@@ -27,7 +27,7 @@
       {
         "name": "Tteokbokki",
         "type": "Snack",
-        "image": "Final project/tteokbokki.jpg",
+        "image": "tteokbokki.jpg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -35,7 +35,7 @@
       {
         "name": "Soft Tofu Stew",
         "type": "Main Course",
-        "image": "Final project/Soft Tofu Stew.jpg",
+        "image": "Soft Tofu Stew.jpg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -43,7 +43,7 @@
       {
         "name": "Samgyeopsal",
         "type": "Main Course",
-        "image": "Final project/samgyeopsal.jpg",
+        "image": "samgyeopsal.jpg",
         "spicy": false,
         "vegetarian": false,
         "seafood": false
@@ -51,7 +51,7 @@
       {
         "name": "Jjajangmyeon",
         "type": "Main Course",
-        "image": "Final project/jjajangmyeon.jpg",
+        "image": "jjajangmyeon.jpg",
         "spicy": false,
         "vegetarian": true,
         "seafood": false
@@ -59,7 +59,7 @@
       {
         "name": "Kimchi Stew",
         "type": "Main Course",
-        "image": "Final project/kimchi stew.jpg",
+        "image": "kimchi stew.jpg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
@@ -67,7 +67,7 @@
       {
         "name": "Soy sauce crab",
         "type": "Side Dish",
-        "image": "Final project/crab.jpg",
+        "image": "crab.jpg",
         "spicy": false,
         "vegetarian": false,
         "seafood": true
@@ -75,7 +75,7 @@
       {
         "name": "Haemul Pajeon",
         "type": "Side Dish",
-        "image": "Final project/pajeon.jpg",
+        "image": "pajeon.jpg",
         "spicy": false,
         "vegetarian": false,
         "seafood": true
