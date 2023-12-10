@@ -3,7 +3,7 @@
       {
         "name": "Kimchi",
         "type": "Side Dish",
-        "image": "Finalproject/kimchi.jpg",
+        "image": "https://images.pexels.com/photos/6823261/pexels-photo-6823261.jpeg",
         "spicy": true,
         "vegetarian": true,
         "seafood": false

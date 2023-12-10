@@ -2,8 +2,7 @@
 const foodTypeElement = document.getElementById('foodtype');
 let koreanFoodsData = [];
 
-/* async displayFoods Function */
-/* async displayFoods Function */
+
 const displayFoods = (foods) => {
     foods.forEach((food) => {
         const foodItem = document.createElement('div');
@@ -20,8 +19,6 @@ const displayFoods = (foods) => {
     });
 };
 
-
-/* async getFoods Function using fetch()*/
 const getFoods = async () => {
     let response;
     let foodData;
