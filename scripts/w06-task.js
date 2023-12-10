@@ -3,6 +3,7 @@ const foodTypeElement = document.getElementById('foodtype');
 let koreanFoodsData = [];
 
 /* async displayFoods Function */
+/* async displayFoods Function */
 const displayFoods = (foods) => {
     foods.forEach((food) => {
         const foodItem = document.createElement('div');
@@ -12,19 +13,13 @@ const displayFoods = (foods) => {
             <div class="food-image">
                 <img src="${food.image}" alt="${food.name}">
             </div>
-            <div class="food-details">
-                <h3>${food.name}</h3>
-                <p>Type: ${food.type}</p>
-                <p>Spicy: ${food.spicy ? 'Yes' : 'No'}</p>
-                <p>Vegetarian: ${food.vegetarian ? 'Yes' : 'No'}</p>
-                <p>Seafood: ${food.seafood ? 'Yes' : 'No'}</p>
-            </div>
         `;
 
         foodItem.innerHTML = foodHTML;
         foodTypeElement.appendChild(foodItem);
     });
 };
+
 
 /* async getFoods Function using fetch()*/
 const getFoods = async () => {

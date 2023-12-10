@@ -52,6 +52,7 @@ getTemples().then(() => {
 
 const sortBy = (list) => {
     const selectedProperty = document.querySelector("#sortBy").value;
+    console.log("Selected property:", selectedProperty); // Check the selected property
 
     list.sort((a, b) => {
         if (a[selectedProperty] < b[selectedProperty]) {
@@ -63,10 +64,12 @@ const sortBy = (list) => {
         return 0;
     });
 
+    console.log("Sorted list:", list); // Check the sorted list
+
     templesElement.innerHTML = '';
     displayTemples(list);
 };
 
 document.querySelector("#sortBy").addEventListener("change", () => {
     sortBy(templeList);
-});
+});            

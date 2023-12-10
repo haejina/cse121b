@@ -269,3 +269,17 @@ footer {
     background-color: #111;
     color: #eee;
 }
+#foodtype {
+    margin-left: 200px;
+}
+.food-item {
+   
+    width: calc(33.33% - 20px); 
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+.food-item img {
+    display: block; 
+    width: 100%; 
+    margin-bottom: 50px; 
+}

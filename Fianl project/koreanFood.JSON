@@ -3,7 +3,7 @@
       {
         "name": "Kimchi",
         "type": "Side Dish",
-        "image": "kimchi.jpg",
+        "image": "https://unsplash.com/photos/brown-and-green-food-on-black-surface-Yo74uWt52bo",
         "spicy": true,
         "vegetarian": true,
         "seafood": false
