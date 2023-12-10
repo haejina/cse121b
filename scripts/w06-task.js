@@ -10,7 +10,7 @@ const displayFoods = (foods) => {
 
         const foodHTML = `
             <div class="food-image">
-                <img src="Final project/${food.image}" alt="${food.name}">
+                <img src="${food.image}" alt="${food.name}">
             </div>
             <div class="food-details">
                 <h3>${food.name}</h3>
